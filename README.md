@@ -1,3 +1,3 @@
 # Digital Eye
 
-## Color scheme inspired by Xcode
+Color scheme inspired by Xcode
