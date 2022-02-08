@@ -2,7 +2,7 @@
   "name": "digitaleye",
   "displayName": "Digital Eye",
   "description": "Color scheme inspired by Xcode",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.64.0"
   },
@@ -21,5 +21,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/digitaleye/digitaleye.vscode.git"
-  }
+  },
+  "publisher": "digitaleye"
 }
