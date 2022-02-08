@@ -1,0 +1,25 @@
+{
+  "name": "digitaleye",
+  "displayName": "Digital Eye",
+  "description": "Color scheme inspired by Xcode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Digital Eye",
+        "uiTheme": "vs",
+        "path": "./themes/Digital Eye-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/digitaleye/digitaleye.vscode.git"
+  }
+}
