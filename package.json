@@ -2,7 +2,7 @@
   "name": "digitaleye",
   "displayName": "Digital Eye",
   "description": "Color scheme inspired by Xcode",
-  "icon": "https://raw.githubusercontent.com/digitaleye/digitaleye.vscode/main/images/DE-logo.png",
+  "icon": "/images/DE-logo.png",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.64.0"
